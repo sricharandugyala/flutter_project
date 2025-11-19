@@ -1,0 +1,13 @@
+
+.dart_tool/
+.packages
+.pub-cache/
+build/
+.idea/
+.vscode/
+ios/Pods/
+android/.gradle/
+.flutter-plugins
+.flutter-plugins-dependencies
+pubspec.lock
+
